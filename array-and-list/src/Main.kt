@@ -1,3 +1,4 @@
+
 fun main() {
     // is immutable array since it is val?
     val onttofive= arrayOf(1,2)
