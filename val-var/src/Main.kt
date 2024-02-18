@@ -3,5 +3,5 @@
 // cannot redeclare val
 fun main() {
     val name="Yabsera Bogale"
-    val name="Yabsera Bogale"
+
 }
